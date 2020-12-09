@@ -1,0 +1,21 @@
+.black-box {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
+.row1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.row2 {
+  display: flex;
+  justify-content: center;
+}
+
+.row3 {
+  display: flex;
+  justify-content: flex-start;
+}
