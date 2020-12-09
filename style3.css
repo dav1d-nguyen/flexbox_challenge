@@ -1,0 +1,20 @@
+.black-box {
+  background-color: black;
+  height: 60px;
+  width: 60px;
+}
+
+.grey-box {
+  background-color:grey;
+  height: 120px;
+  width: 120px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
