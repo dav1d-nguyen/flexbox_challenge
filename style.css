@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.black-box {
+  background-color: black;
+  height: 30px;
+  width: 30px;
+}
+
+.group2 {
+  display: flex;
+}
+
+#box3 {
+  margin-right: 5px;
+}
+
