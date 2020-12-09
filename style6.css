@@ -1,0 +1,25 @@
+.black-box {
+  background-color: black;
+  height: 60px;
+  width: 60px;
+}
+
+.grey-box {
+  background-color:grey;
+  height: 100px;
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 200px;
+}
+
+#box1 {
+  position: relative;
+  top: 40px;
+}
